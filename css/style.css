@@ -1,23 +1,79 @@
+*{
+    padding:0px;
+    margin:0px;
+    box-sizing: border-box;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,400i,600i,700,800&display=swap');
+
+.rg_red{
+    background:rgb(188, 0, 0);
+}
+
+
 .header_top{
     padding:7px;
     width:100%;
 }
 .nav {
-    margin-top:10px;
+    margin-top:-7px;
     height:40px;
 }
 .nav ul li {
     float:left;
     list-style: none;
-    padding-left:8px;
-    padding-right:8px;
+    padding-left:4px;
+    padding-right:4px;
+
 }
 .nav ul li a{
     text-transform:uppercase;
     color:white;
     text-decoration:none;
+    line-height: 85px;
+    display:block;
+    padding-left:10px;
+    padding-right:10px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    font-size:0.80em;
+    color:white;
+    text-decoration:none !important;
 }
 
 .nav ul li a:hover{
-    background:red;
+    background:rgb(160, 30, 30);
+}
+.general_news{
+    width:100%;
+    height:auto;
+    background:rgb(244, 244, 244);
+}
+
+/* .effect_background:hover{*/
+/*    width:100%;*/
+/*    height:auto;*/
+/*    background:rgba(188, 0, 0,0.5);*/
+
+
+/*}*/
+
+.custom_text{
+    position: relative;
+    top:-116px;
+    color:white;
+    width:100%;
+    height:auto;
+    padding:10px;
+    background:rgba(0,0,0,0.5);
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    font-size:0.90em;
+    text-align: justify;
+
+
+}
+
+.general_news .effect_background a{
+    text-decoration: none;
 }

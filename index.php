@@ -13,7 +13,7 @@
 </head>
 <body>
 
-<header class="header_top rg_red fixed-top">
+<header class="header_top rg_red">
     <div class="container">
         <div class="row">
             <div class="col-md-2">
@@ -26,7 +26,7 @@
                 <div class="d-flex justify-content-end">
                     <nav class="nav">
                         <ul><li><a href="#">HOME</a></li></ul>
-                        <ul><li><a href="#">noticias</a></li></ul>
+                        <ul><li><a href="#">notícias</a></li></ul>
                         <ul><li><a href="#">política</a></li></ul>
                         <ul><li><a href="#">saúde</a></li></ul>
                         <ul><li><a href="#">eventos</a></li></ul>
@@ -41,6 +41,77 @@
         </div>
     </div>
 </header>
+
+<main>
+    <br>
+    <section>
+        <article>
+            <div class="container">
+
+                <img class="img-fluid" src="imagens/7-COUNTRY-FEST-2019---WEB-BANNER-2.jpg" alt="">
+
+            </div>
+            </div>
+        </article>
+    </section>
+    <br>
+
+
+    <section class="general_news p-4">
+        <div class="container">
+            <div class="row  " >
+
+
+
+                <div class="col-md-6 p-0"  >
+                    <div class="effect_background text-center">
+                        <a href="#" ><img class="img-fluid " src="imagens/aprendiz-1583352266-616x385.jpg" alt="" >
+                           <span>dasdasds</span>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div class="col-md-3 "   >
+                    <div class="effect_background text-center">
+                        <a href="#" ><img class="img-fluid " src="imagens/aprendiz-1583352266-616x385.jpg" alt="" >
+                            asdassad
+                        </a>
+
+                        <a href="#" ><img class="img-fluid " src="imagens/aprendiz-1583352266-616x385.jpg" alt="" >
+                            asdassad
+                        </a>
+
+                    </div>
+                </div>
+
+                <div class="col-md-3 "  >
+                    <div class="effect_background text-center">
+                        <a href="#" ><img class="img-fluid " src="imagens/aprendiz-1583352266-616x385.jpg" alt="" >
+                            asdassad
+                        </a>
+
+                        <a href="#" ><img class="img-fluid " src="imagens/aprendiz-1583352266-616x385.jpg" alt="" >
+                            asdassad
+                        </a>
+
+
+
+                    </div>
+                </div>
+
+
+            </div>
+        </div>
+
+    </section>
+
+
+
+
+
+</main>
+
 
 
 

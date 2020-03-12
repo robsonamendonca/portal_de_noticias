@@ -4,6 +4,9 @@
     box-sizing: border-box;
 }
 
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,400i,600i,700,800&display=swap');
+
 .rg_red{
     background:rgb(188, 0, 0);
 }
+
