@@ -1,0 +1,9 @@
+*{
+    padding:0px;
+    margin:0px;
+    box-sizing: border-box;
+}
+
+.rg_red{
+    background:rgb(188, 0, 0);
+}
