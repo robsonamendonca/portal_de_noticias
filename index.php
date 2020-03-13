@@ -63,36 +63,36 @@
 
 
 
-                <div class="col-md-6 p-0"  >
+                <div class="col-md-6"  >
                     <div class="effect_background text-center">
                         <a href="#" ><img class="img-fluid " src="imagens/aprendiz-1583352266-616x385.jpg" alt="" >
-                           <span>dasdasds</span>
+                           <span class="custom_text">dasdasds</span>
                         </a>
 
                     </div>
                 </div>
 
-                <div class="col-md-3 "   >
-                    <div class="effect_background text-center">
+                <div class="col-md-3  "   >
+                    <div class=" text-center p-1">
                         <a href="#" ><img class="img-fluid " src="imagens/aprendiz-1583352266-616x385.jpg" alt="" >
-                            asdassad
+                            <span class="custom_text">dasdasds</span>
                         </a>
 
                         <a href="#" ><img class="img-fluid " src="imagens/aprendiz-1583352266-616x385.jpg" alt="" >
-                            asdassad
+                            <span class="custom_text">dasdasds</span>
                         </a>
 
                     </div>
                 </div>
 
                 <div class="col-md-3 "  >
-                    <div class="effect_background text-center">
+                    <div class="text-center p-1">
                         <a href="#" ><img class="img-fluid " src="imagens/aprendiz-1583352266-616x385.jpg" alt="" >
-                            asdassad
+                            <span class="custom_text">dasdasds</span>
                         </a>
 
                         <a href="#" ><img class="img-fluid " src="imagens/aprendiz-1583352266-616x385.jpg" alt="" >
-                            asdassad
+                            <span class="custom_text">dasdasds</span>
                         </a>
 
 
